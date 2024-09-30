@@ -1,0 +1,6 @@
+[
+    {"CustomerID": 1, "FirstName": "John", "LastName": "Doe", "Email": "john.doe@example.com", "PhoneNumber": "123-456-7890"},
+    {"CustomerID": 2, "FirstName": "Jane", "LastName": "Smith", "Email": "jane.smith@example.com", "PhoneNumber": "098-765-4321"},
+    {"CustomerID": 3, "FirstName": "Michael", "LastName": "Brown", "Email": "michael.brown@example.com", "PhoneNumber": "234-567-8901"},
+    {"CustomerID": 4, "FirstName": "Emily", "LastName": "Davis", "Email": "emily.davis@example.com", "PhoneNumber": "567-890-1234"}
+]
