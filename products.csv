@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,Price,StockQuantity
+101,Laptop,Electronics,799.99,50
+102,Smartphone,Electronics,599.99,200
+103,Desk,Furniture,150.00,30
+104,Chair,Furniture,85.50,75
