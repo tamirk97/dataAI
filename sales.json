@@ -1,0 +1,6 @@
+[
+    {"SaleID": 5001, "ProductID": 101, "CustomerID": 1, "Date": "2024-09-01", "Amount": 2},
+    {"SaleID": 5002, "ProductID": 102, "CustomerID": 2, "Date": "2024-09-02", "Amount": 1},
+    {"SaleID": 5003, "ProductID": 103, "CustomerID": 3, "Date": "2024-09-03", "Amount": 1},
+    {"SaleID": 5004, "ProductID": 104, "CustomerID": 4, "Date": "2024-09-04", "Amount": 3}
+]
