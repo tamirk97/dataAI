@@ -1,0 +1,6 @@
+[
+    {"ProductID": 101, "ProductName": "Laptop", "Category": "Electronics", "Price": 799.99, "StockQuantity": 50},
+    {"ProductID": 102, "ProductName": "Smartphone", "Category": "Electronics", "Price": 599.99, "StockQuantity": 200},
+    {"ProductID": 103, "ProductName": "Desk", "Category": "Furniture", "Price": 150.00, "StockQuantity": 30},
+    {"ProductID": 104, "ProductName": "Chair", "Category": "Furniture", "Price": 85.50, "StockQuantity": 75}
+]
